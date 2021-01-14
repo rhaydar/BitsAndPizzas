@@ -1,6 +1,5 @@
 package com.hfad.bitsandpizzas;
 
-
 import android.graphics.drawable.Drawable;
 import android.view.LayoutInflater;
 import android.view.ViewGroup;
